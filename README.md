@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm <strong>Hafshah!</strong></h1>
+## <h1 align="center">Hi 👋, I'm <strong>Hafshah!</strong></h1>
 <p align="center">Web Programming Enthusiast • Student </p>
 
 <p align="center">
