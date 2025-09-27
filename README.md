@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 <!-- README.md — Modern / Aesthetic Profile for Hafshah -->
 <!-- Paste this into the repository named: HafshahNailatusy -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/HafshahNailatusy?s=200" alt="Hafshah" width="140" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">Hi 👋, I'm <strong>Hafshah!</strong></h1>
 <p align="center">Web Programming Enthusiast • Student</p>
 
@@ -45,11 +41,6 @@ Here are some ideas to get you started:
 
 ---
 
-## ✨ About Me
-Saya **Hafshah**, suka membuat aplikasi web yang bersih, responsif, dan mudah digunakan. Saat ini fokus mempelajari dan mengembangkan proyek dengan **React** dan **Node.js**.
-
----
-
 ## 🔭 Tech Stack & Tools
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black" /> 
@@ -71,13 +62,13 @@ Saya **Hafshah**, suka membuat aplikasi web yang bersih, responsif, dan mudah di
   <tr>
     <td>React</td>
     <td>
-      <progress value="80" max="100" style="width:100%;">80%</progress>
+      <progress value="70" max="100" style="width:100%;">70%</progress>
     </td>
   </tr>
   <tr>
     <td>Node.js</td>
     <td>
-      <progress value="70" max="100" style="width:100%;">70%</progress>
+      <progress value="80" max="100" style="width:100%;">80%</progress>
     </td>
   </tr>
   <tr>
@@ -87,8 +78,6 @@ Saya **Hafshah**, suka membuat aplikasi web yang bersih, responsif, dan mudah di
     </td>
   </tr>
 </table>
-
-> Progress bars above are purely visual — GitHub will render `<progress>` in HTML. If a browser or renderer doesn't show it, the text values still convey skill levels.
 
 ---
 
@@ -102,7 +91,3 @@ Saya **Hafshah**, suka membuat aplikasi web yang bersih, responsif, dan mudah di
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HafshahNailatusy&color=blue" alt="visitor-counter" />
 </p>
-
----
-
-<sub align="center">Made with ❤️ · If you want a different color theme (dark/solarized/forest) or extra sections (blog, CV download, contribution calendar screenshot), tell me — I'll update it.</sub>
