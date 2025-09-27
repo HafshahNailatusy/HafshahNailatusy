@@ -43,19 +43,6 @@ Saya Hafshah — pemrogram yang suka membangun aplikasi web modern. Saat ini ber
       - JavaScript
       - React
       - Node.js 
-
-      ### 📚 Current Learning
-      - Rust & WebAssembly  
-      - Cloud Native Patterns
-    </td>
-    <td valign="top" width="50%">
-      ### 📈 GitHub Stats
-      <!-- ganti YOUR-USERNAME di src -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&locale=en" alt="github-stats" />
-      
-      ### ⭐ Top Languages
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" alt="top-langs" />
-    </td>
   </tr>
 </table>
 
