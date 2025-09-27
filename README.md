@@ -41,35 +41,15 @@ Here are some ideas to get you started:
 
 ---
 
-### Skill Levels (visual)
-<table width="100%">
-  <tr>
-    <td width="25%">JavaScript</td>
-    <td width="75%">
-      <progress value="85" max="100" style="width:100%;">85%</progress>
-    </td>
-  </tr>
-  <tr>
-    <td>React</td>
-    <td>
-      <progress value="70" max="100" style="width:100%;">70%</progress>
-    </td>
-  </tr>
-  <tr>
-    <td>Node.js</td>
-    <td>
-      <progress value="80" max="100" style="width:100%;">80%</progress>
-    </td>
-  </tr>
-  <tr>
-    <td>HTML & CSS</td>
-    <td>
-      <progress value="85" max="100" style="width:100%;">85%</progress>
-    </td>
-  </tr>
-</table>
-
----
+## 🔭 Tech Stack & Tools
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black" /> 
+  <img alt="React" src="https://img.shields.io/badge/React-17.0.2-61DAFB?logo=react&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-LTS-339933?logo=node.js&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" />
+</p>
 
 ## 📫 Contact
 - Email: **hafshahnaila07@gmail.com**  
