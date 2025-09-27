@@ -41,16 +41,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔭 Tech Stack & Tools
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black" /> 
-  <img alt="React" src="https://img.shields.io/badge/React-17.0.2-61DAFB?logo=react&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-LTS-339933?logo=node.js&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" />
-</p>
-
 ### Skill Levels (visual)
 <table width="100%">
   <tr>
