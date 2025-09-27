@@ -12,47 +12,97 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <h1 align="center">Hi 👋, I'm <strong>Hafshah!</strong></h1>
-<p align="center">Web Programming Enthusiast • Student </p>
+<!-- README.md — Modern / Aesthetic Profile for Hafshah -->
+<!-- Paste this into the repository named: HafshahNailatusy -->
 
 <p align="center">
-  <!-- ganti USERNAME di bawah dengan username GitHub-mu -->
-  <a href="https://github.com/HafshahNailatusy">
+  <img src="https://avatars.githubusercontent.com/HafshahNailatusy?s=200" alt="Hafshah" width="140" style="border-radius:50%;" />
+</p>
+
+<h1 align="center">Hi 👋, I'm <strong>Hafshah!</strong></h1>
+<p align="center">Web Programming Enthusiast • Student</p>
+
+<p align="center">
+  <a href="https://github.com/HafshahNailatusy" aria-label="GitHub">
     <img src="https://img.shields.io/badge/GitHub-@HafshahNailatusy-181717?style=for-the-badge&logo=github" alt="github-badge" />
   </a>
-  <a href="mailto:hafshahnaila07@gmail.com">
+  <a href="mailto:hafshahnaila07@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Email-hafshahnaila07@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="email-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/hafshah-nailatusy-9a4a6b2a6/">
+  <a href="https://www.linkedin.com/in/hafshah-nailatusy-9a4a6b2a6/" aria-label="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin-badge" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-Saya Hafshah — pemrogram yang suka membangun aplikasi web modern. Saat ini berfokus ke: **React**, dan **Node.js**.
+<!-- Intro + card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafshahNailatusy&show_icons=true&theme=tokyonight&count_private=true" alt="github-stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafshahNailatusy&layout=compact&theme=tokyonight" alt="top-langs" />
+</p>
 
-<!-- two-column quick info (HTML untuk kontrol layout) -->
-<table>
+---
+
+## ✨ About Me
+Saya **Hafshah**, suka membuat aplikasi web yang bersih, responsif, dan mudah digunakan. Saat ini fokus mempelajari dan mengembangkan proyek dengan **React** dan **Node.js**.
+
+---
+
+## 🔭 Tech Stack & Tools
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black" /> 
+  <img alt="React" src="https://img.shields.io/badge/React-17.0.2-61DAFB?logo=react&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-LTS-339933?logo=node.js&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" />
+</p>
+
+### Skill Levels (visual)
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
-      ### 🔧 Skills
-      - JavaScript
-      - React
-      - Node.js 
+    <td width="25%">JavaScript</td>
+    <td width="75%">
+      <progress value="85" max="100" style="width:100%;">85%</progress>
+    </td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>
+      <progress value="80" max="100" style="width:100%;">80%</progress>
+    </td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>
+      <progress value="70" max="100" style="width:100%;">70%</progress>
+    </td>
+  </tr>
+  <tr>
+    <td>HTML & CSS</td>
+    <td>
+      <progress value="85" max="100" style="width:100%;">85%</progress>
+    </td>
   </tr>
 </table>
+
+> Progress bars above are purely visual — GitHub will render `<progress>` in HTML. If a browser or renderer doesn't show it, the text values still convey skill levels.
 
 ---
 
 ## 📫 Contact
-- Email: hafshahnaila07@gmail.com 
-- LinkedIn: [Hafshah Nailatusy]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/hafshah-nailatusy-9a4a6b2a6/))
+- Email: **hafshahnaila07@gmail.com**  
+- LinkedIn: [Hafshah Nailatusy](https://www.linkedin.com/in/hafshah-nailatusy-9a4a6b2a6/)  
+- GitHub: https://github.com/HafshahNailatusy
 
 ---
 
 <p align="center">
-  <!-- visitor counter (opsional) -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue" alt="visitor-counter" />
+  <img src="https://komarev.com/ghpvc/?username=HafshahNailatusy&color=blue" alt="visitor-counter" />
 </p>
+
+---
+
+<sub align="center">Made with ❤️ · If you want a different color theme (dark/solarized/forest) or extra sections (blog, CV download, contribution calendar screenshot), tell me — I'll update it.</sub>
