@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/HafshahNailatusy" aria-label="GitHub">
     <img src="https://img.shields.io/badge/GitHub-@HafshahNailatusy-181717?style=for-the-badge&logo=github" alt="github-badge" />
   </a>
-  <a href="mailto:hafshahnaila07@gmail.com" aria-label="Email">
+  <a href="mailto:hafshahnaila7@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Email-hafshahnaila07@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="email-badge" />
   </a>
   <a href="https://www.linkedin.com/in/hafshah-nailatusy-9a4a6b2a6/" aria-label="LinkedIn">
@@ -31,13 +31,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-<!-- Intro + card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafshahNailatusy&show_icons=true&theme=tokyonight&count_private=true" alt="github-stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafshahNailatusy&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
 
 ---
 
@@ -52,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 📫 Contact
-- Email: **hafshahnaila07@gmail.com**  
+- Email: **hafshahnaila7@gmail.com**  
 - LinkedIn: [Hafshah Nailatusy](https://www.linkedin.com/in/hafshah-nailatusy-9a4a6b2a6/)  
 - GitHub: https://github.com/HafshahNailatusy
 
